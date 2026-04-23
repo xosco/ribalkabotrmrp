@@ -1,0 +1,6 @@
+--- ДАННЫЕ ДЛЯ СКРИПТА ---
+
+monitor = {'top': 892, 'left': 973, 'width': 80, 'height': 80}
+
+lower_color = np.array([np.int64(2), np.int64(231), np.int64(50)])
+upper_color = np.array([np.uint8(22), np.uint8(75), np.uint8(101)])
