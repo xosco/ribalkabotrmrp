@@ -1,3 +1,5 @@
+# pip install mss keyboard opencv-python numpy
+
 import cv2
 import numpy as np
 import mss
